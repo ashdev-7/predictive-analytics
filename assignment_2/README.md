@@ -108,6 +108,3 @@ After training:
 The experiment demonstrates that a GAN can effectively learn an **implicit probability density function** using only data samples. The trained model captures the global structure and dominant characteristics of the true distribution in a stable and interpretable manner.
 
 
-
-**Footer**
-© 2026 GitHub, Inc.
