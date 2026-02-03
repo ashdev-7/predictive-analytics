@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: Topsis-Yash-102303683
+Version: 1.0.0
+Summary: TOPSIS implementation using Python
+Author: Yash
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
+
+# Package Description
+
+_This package is built as a submission to_ [Assignment 1](https://github.com/psrana/Assignment-Topsis)
+
+_Submitted by:_ **Yash (102303683)**
+
+*Definition:* TOPSIS, acronym for Technique for Order Preference by Similarity to Ideal Solution, is a
+multi-criteria decision-making (MCDM) method used to rank alternatives by selecting the
+option that is closest to the ideal solution and farthest from the worst (negative ideal)
+solution.
+
+<br>
+
+## Installation
+
+Use the package manager pip to install Topsis-Yash-102303683
+
+```bash
+pip install Topsis-Yash-102303683
